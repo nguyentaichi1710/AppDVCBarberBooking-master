@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">Barber Shop</string>
+    <string name="FACEBOOK_APP_ID">1081710622026555</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">730b1609076ca2cb68716708012685ae</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="description_book">Thank you for booking our service !</string>
+    <string name="booking_information">Booking information</string>
+    <string name="your_booking_information">Your booking information</string>
+    <string name="address_bullet">\u2022 Address:</string>
+    <string name="time_bullet">\u2022 Time:</string>
+    <string name="stylist_bullet">\u2022 Stylist:</string>
+    <string name="bullet">\u2022</string>
+    <string name="noti">Thông báo!</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+</resources>

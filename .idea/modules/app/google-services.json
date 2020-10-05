@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "936194742565",
+    "firebase_url": "https://dvcbaberbooking.firebaseio.com",
+    "project_id": "dvcbaberbooking",
+    "storage_bucket": "dvcbaberbooking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936194742565:android:75d880130635882cd322cc",
+        "android_client_info": {
+          "package_name": "com.example.dvcbaberbooking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936194742565-lom58a5s21lp49rb5iphe03ntskoakdm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dvcbaberbooking",
+            "certificate_hash": "42a767c583d78fa92b76b9607fd46a2435149438"
+          }
+        },
+        {
+          "client_id": "936194742565-m9o7phuidqjgqo4pg5jrlhp1tpsbojsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZZRz3zV2fj-y62CBHLTP61brzxkrRLdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936194742565-m9o7phuidqjgqo4pg5jrlhp1tpsbojsl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
